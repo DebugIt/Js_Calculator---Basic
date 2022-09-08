@@ -9,4 +9,4 @@ A Basic Js calculator with some minimal features : <br>
 <br>
 <br>
 <br>
-Live at: https://gorgeous-tartufo-a3dab5.netlify.app/
+Live at: https://stupendous-smakager-3b06b3.netlify.app/
